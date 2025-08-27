@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+pandas==2.2.2
+matplotlib==3.8.4
+yfinance==0.2.65
+pandas-datareader==0.10.0
+fredapi==0.5.2
+python-dotenv==1.0.1
+seaborn==0.13.2
+
